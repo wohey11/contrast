@@ -2,7 +2,7 @@
 backend:
   name: git-gateway
   repo: wohey11/contrast
-  branch: main
+  branch: master
   auth_type: pkce
   base_url: https://auth.decapbridge.com
   auth_endpoint: /sites/b5998cd6-79e7-4683-a97a-5c85122afa40/pkce
