@@ -2,9 +2,9 @@ title: "Blog Title"
 author: "w.h."
 description: "My blog"
 permalink: /:title/
-lang: "en"
+lang: "de"
 excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+date_format: ""%d. %B %Y""
 
 # Layout
 
