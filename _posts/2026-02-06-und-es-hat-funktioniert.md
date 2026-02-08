@@ -7,4 +7,4 @@ tatsächlich...
 
 und noch ein Versuch:
 
-![Schneeglocken]({{ site.baseurl }}/images/uploads/img_20190309_114423.jpg "Schneeglöckchen")
+![Schneeglocken]({{ site.baseurl }}/images/uploads/img_20190309_114423.jpg "Schneeglöckchen"){: width="50%"}
